@@ -1,13 +1,13 @@
-# 🧪 Base2 QA Engineer Roadmap
+# 🧪 Roadmap de Qualidade — Base2 Tecnologia
 
 > **Idealizado pelo Time de Arquitetura da Base2 Tecnologia**  
-> Um guia completo e interativo para evoluir sua carreira em Qualidade de Software — de Júnior a Sênior.
+> Um guia completo e interativo para evoluir sua carreira em Qualidade de Software — de Júnior a Sênior, passando por trilhas complementares para outros papéis.
 
 ---
 
 ## 📖 Sobre o projeto
 
-Este roadmap foi construído com o objetivo de auxiliar profissionais de QA a evoluírem em suas carreiras, pensando nas melhores práticas do mercado. É um documento HTML standalone — sem dependências externas de servidor — que pode ser aberto diretamente no browser ou hospedado em qualquer serviço de páginas estáticas (GitHub Pages, Netlify, Vercel).
+Este roadmap foi construído para auxiliar profissionais de QA e outros papéis do desenvolvimento a evoluírem em suas carreiras, com foco nas melhores práticas do mercado. É um documento HTML standalone — sem dependências externas de servidor, acessível diretamente em [base2roadmap.github.io/qualidade](https://base2roadmap.github.io/qualidade/).
 
 O conteúdo é baseado no [roadmap.sh/qa](https://roadmap.sh/qa) e foi significativamente expandido e adaptado pelo Time de Arquitetura da Base2, com foco na realidade do mercado brasileiro.
 
@@ -21,7 +21,7 @@ O roadmap possui autenticação por e-mail corporativo. Ao acessar, é necessár
 
 ## 🗂️ Estrutura do Roadmap
 
-O roadmap é dividido em **3 trilhas independentes**, cada uma com conteúdo, laboratórios e recursos específicos para o nível:
+O roadmap é dividido em **3 trilhas QA + trilhas complementares para outros papéis**, cada uma com conteúdo, laboratórios e recursos específicos:
 
 ---
 
@@ -30,7 +30,7 @@ O roadmap é dividido em **3 trilhas independentes**, cada uma com conteúdo, la
 > *Um guia honesto sobre o dia a dia, as expectativas e os erros mais comuns de quem está começando.*  
 > ✅ Sem pré-requisitos técnicos · 📅 3–6 meses de estudo
 
-**12 módulos · 21+ exercícios · 29+ recursos · 8 labs guiados**
+**13 módulos · 21+ exercícios · 29+ recursos · 18 labs guiados**
 
 | Módulo | Principais tópicos |
 |--------|--------------------|
@@ -55,7 +55,7 @@ O roadmap é dividido em **3 trilhas independentes**, cada uma com conteúdo, la
 > *Você já domina os fundamentos. Agora é hora de automatizar, integrar com CI/CD, testar APIs e liderar a qualidade do seu time.*  
 > ⚡ Pré-requisito: fundamentos de QA · 📅 6–18 meses de estudo
 
-**11 módulos · 59+ exercícios · 71+ recursos · 18 labs com código**
+**15 módulos · 35+ exercícios · 71+ recursos · 25 labs com código**
 
 | Módulo | Principais tópicos |
 |--------|--------------------|
@@ -67,6 +67,10 @@ O roadmap é dividido em **3 trilhas independentes**, cada uma com conteúdo, la
 | 📊 Gestão de Testes com TestRail | MeloQA + MeloAI, TestRail na prática, plano de testes |
 | 📡 Monitoramento e Relatórios | Allure Reports, Grafana e Sentry |
 | ✨ IA como Ferramenta de Produtividade | LLMs para QA, Applitools Eyes, CodiumAI e GitHub Copilot |
+| 🔒 Segurança para QA | OWASP para QA, testes de segurança básicos, SAST e DAST |
+| ⚡ Performance para QA | K6 básico, tipos de teste de carga, análise de resultados |
+| 📝 Testes de Contrato | Pact, consumer-driven contracts, integração com CI |
+| ⬅️ Shift-Left Testing | Qualidade desde a concepção, Three Amigos, BDD |
 | 🚦 Feature Flags e Rollout Gradual | LaunchDarkly e Unleash, canary releases, testando com feature flags |
 | 🔐 Secrets e Variáveis de Ambiente | .env e dotenv, GitHub Secrets, múltiplos ambientes |
 | 🧠 Mentalidade QA | Influência e protagonismo, shift-left, pipeline de qualidade |
@@ -78,7 +82,7 @@ O roadmap é dividido em **3 trilhas independentes**, cada uma com conteúdo, la
 > *Você já automatiza com confiança. Agora o desafio é escalar a qualidade: performance, segurança, arquitetura de testes, liderança.*  
 > 🏗️ Pré-requisito: automação consolidada · 📅 18+ meses de estudo contínuo
 
-**17 módulos · 43+ exercícios · 77+ recursos · 19 labs avançados**
+**18 módulos · 43+ exercícios · 77+ recursos · 18 labs avançados**
 
 | Módulo | Principais tópicos |
 |--------|--------------------|
@@ -97,8 +101,41 @@ O roadmap é dividido em **3 trilhas independentes**, cada uma com conteúdo, la
 | 🔗 Qualidade em Microsserviços e Sistemas Assíncronos | Kafka, Testcontainers, distributed tracing |
 | 📊 Data Literacy e Métricas Estratégicas | Métricas que importam, análise de causa raiz, dashboards para stakeholders |
 | 🏆 Quality Engineering vs. QA | De QA para QE, QE na prática, métricas de impacto e DORA metrics |
+| ➡️ Shift-Right Testing | Testes em produção, canary analysis, feedback loop |
 | 💰 FinOps de Testes | Custo real da suíte, otimização de pipeline, pirâmide de custos × cobertura |
 | 🧠 Mentalidade QA | Arquitetando a cultura de qualidade de ponta a ponta |
+
+---
+
+### 🌀 Trilha Atemporal — Fundamentos que Não Expiram
+
+> *Competências transversais que valem em qualquer nível de carreira.*  
+> ✅ Para todos os níveis · 📅 Sempre atual
+
+**8 temas · 14+ exercícios · 8 labs**
+
+Comunicação e Colaboração, Documentação de Testes, Mentalidade de Qualidade, Ética e Reporte Honesto, IA no dia a dia de QA, Gestão de Tempo e Priorização, Qualidade no SDLC, Estratégia Ponta a Ponta.
+
+---
+
+### 🤝 Trilhas para Outros Papéis
+
+Trilhas complementares para profissionais que trabalham com qualidade mas não são QA:
+
+| Trilha | Foco |
+|--------|------|
+| 👨‍💻 Desenvolvedor | Testabilidade, TDD, code review com olhar de qualidade |
+| 📋 PO / PM | Critérios de aceite, Definition of Done, priorização de bugs |
+| ⚙️ DevOps / SRE | Gates de qualidade, observabilidade, confiabilidade |
+| 🎨 UX / Design | Testes de usabilidade, acessibilidade, handoff sem surpresas |
+| 📝 Analista de Negócio | Requisitos testáveis, rastreabilidade, cenários que viram testes |
+| 🔁 SM / Agile Coach | Qualidade nas cerimônias, cultura de qualidade no time |
+
+---
+
+### 📖 Glossário de Qualidade
+
+Mais de **150 termos** em português, organizados por categoria, com busca rápida. Cobre vocabulário de QA, Dev, DevOps, UX, Agile e Negócio.
 
 ---
 
@@ -106,18 +143,19 @@ O roadmap é dividido em **3 trilhas independentes**, cada uma com conteúdo, la
 
 | Indicador | Total |
 |-----------|-------|
-| Trilhas | 3 |
-| Módulos de conteúdo | 40 |
-| Laboratórios práticos | 135 |
-| Links de recursos | 464 |
-| Artigos referenciados | 147 |
+| Trilhas QA | 3 + Atemporais |
+| Trilhas complementares | 6 |
+| Módulos de conteúdo | 54+ |
+| Laboratórios práticos | 135+ |
+| Links de recursos | 386+ |
+| Termos no glossário | 150+ |
 | Recursos em 🇧🇷 português | 194+ |
 
 ---
 
 ## 🚀 Como usar
 
-Acesse: https://malourencobase2.github.io/qaroadmap/
+Acesse: https://base2roadmap.github.io/qualidade/
 
 > ⚠️ O acesso requer e-mail com domínio `@base2.com.br`.
 
@@ -126,11 +164,16 @@ Acesse: https://malourencobase2.github.io/qaroadmap/
 ## 🧩 Funcionalidades
 
 - **Tela de login** com autenticação por e-mail corporativo (`@base2.com.br`), sessão de 7 dias via `sessionStorage`
-- **Página inicial interativa** com seleção de trilha por nível e descrição de pré-requisitos e tempo estimado
+- **Landing page interativa** com 3 abas: Trilha QA, Qualidade para Outros Papéis e Glossário
+- **Cards de trilha** com módulos, exercícios e labs de cada nível
 - **Sidebar dinâmica** que muda conforme a trilha escolhida
-- **Topbar** com botão de retorno ao início e indicador do nível atual
-- **Navegação suave** entre módulos com scroll automático
-- **Tabs de automação** para alternar entre frameworks (Cypress, Playwright, Selenium)
+- **Topbar** com botão de retorno ao início, nível atual e busca global
+- **Sistema de progresso** com marcação de cards e labs concluídos, persistido em `localStorage`
+- **Navegação suave** entre módulos com scroll automático ao topo
+- **Tabs de automação** para alternar entre frameworks (Cypress, Playwright, Selenium, Robot Framework, Karate)
+- **Glossário fullpage** com busca em tempo real
+- **Mapa de Carreira** interativo
+- **Busca global** com navegação direta ao tópico
 - **Responsivo** para mobile e desktop
 - **Standalone** — um único arquivo `index.html` sem dependências externas de servidor
 
@@ -139,9 +182,10 @@ Acesse: https://malourencobase2.github.io/qaroadmap/
 ## 🛠️ Tecnologias
 
 - **HTML5 + CSS3** — layout com CSS Grid e Flexbox
-- **JavaScript vanilla** — navegação entre seções, trilhas e autenticação
+- **JavaScript vanilla** — navegação, autenticação, progresso e busca
 - **Google Fonts** — Sora (títulos) e Inter (corpo), via CDN
 - **sessionStorage** — controle de sessão de autenticação (7 dias)
+- **localStorage** — persistência do progresso entre sessões
 
 ---
 
